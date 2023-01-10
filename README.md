@@ -19,3 +19,5 @@ O que foi feito? 👨‍💻
 🪛 Troca de pasta térmica.
 
 🪛 Troca de bateria.
+
+![freela1](https://user-images.githubusercontent.com/113246076/211672078-175a4da0-9a88-43bc-a700-b391f33a1c8f.jpg)
