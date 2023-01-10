@@ -1,4 +1,4 @@
-Boa tarde, rede!
+Ola, rede!
 
 Este foi meu primeiro desafio de manutenção em um notebook, após concluir os cursos de Hardware e Software e Informática Básica ao Avançado das instituições de ensino: Fundação Bradesco e Udemy, além de ter quebrado muito a cabeça com alguns vídeos no YouTube.
 
