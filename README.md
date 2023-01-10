@@ -1,17 +1,21 @@
-Ola, rede!
+Olá, rede!
 
-Este foi meu primeiro desafio de manutenção em um notebook, após concluir os cursos de Hardware e Software e Informática Básica ao Avançado das instituições de ensino: Fundação Bradesco e Udemy, além de ter quebrado muito a cabeça com alguns vídeos no YouTube.
+Uma amiga minha pediu para que eu desse uma olhada no notebook dela, que segundo ela o computador demorava para ligar e que só funcionava conectado em sua fonte.
 
-Esse Notebook é de um colega de trabalho, ele alegava que o computador não ligava por nada pois estava parado a muito tempo em um depósito e os led's dele não ligavam até mesmo quando se conectava na fonte.
+Fiz uma série de testes na placa mãe além de limpeza com álcool isopropílico e troca de pasta térmica.
 
-O que foi feito?
+No resumo dos teste consegui identificar uma fuga de tensão que vinha da bateria para a placa, ao ligar na fonte ela batia seus 12.6V o que era insuficiente para sustentar o computador, cujo o mesmo necessitava de 14.8V. E, por isso, ao retirar a fonte do DC Jack o Notebook desligava instantâneamente.
 
-✔️ Teste de energia da placa mãe utilizando amperímetro.
+Na imagem podemos ver a comparação da vida útil e carga suportada x desempenho, o que nos mostra um desgaste da bateria devido a vários fatores externos mas que principalmente seu tempo de uso já não lhe dava a mesma qualidade em seus ciclos.
 
-✔️ Limpeza de todos os componentes.
+Fiz a proposta da troca da bateria e solucionamos o defeito. 🪛💻
 
-✔️ Troca de pasta térmica.
+O que foi feito? 👨‍💻
 
-✔️ Reset e configuração da BIOS.
+🪛 Teste e diagnóstico utilizando amperímetro e CMD.
 
-🔄 Hoje será instalado o Windows 10 como seu sistema operacional.
+🪛 Limpeza da placa mãe.
+
+🪛 Troca de pasta térmica.
+
+🪛 Troca de bateria.
